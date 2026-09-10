@@ -32,7 +32,7 @@ useEffect(() => {
             <h1 className="text-3xl font-bold text-[#F7D417] mb-4">Marquette Pickleball Club</h1>
             <p className="text-white text-base mb-8">
               Whether you're a seasoned competitor or just picking up a paddle for the first time,
-              MU Pickleball welcomes all skill levels. Sign up today and join us practices. 
+              MU Pickleball welcomes all skill levels. Sign up today and join us at practices. 
               We meet weekly on campus on the basement courts of the Marquette Wellness + 
               Helfaer Recreation Center. Check our schedule for special events and regional tournaments 
               throughout the year.
